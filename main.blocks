@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="rUi:t?MKQfD?Go`NNnZ_" x="0" y="0"></block><block type="device_forever" id="Ema.gc9#w3?^?6)(PvrV" x="205" y="0"></block><block type="device_button_event" id="fN1.Dv(}JKBK*3fOduG(" x="558" y="-12"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="3]J_8UfF2cpkA;+S/4$X"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="p7-+Z;esYYSrr^,Bk0MJ"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # . # . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="/938iG)Os(zZ5/Z-LI[u"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        # . . . #
+        `</field></block></next></block></next></block></statement></block><block type="device_button_event" id="544+nWVNN#AjFia_7Rdy" x="20" y="160"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="{xH(__E|]5ME?q5qGxPs"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="%dl2;_f8Rs[#lAa$,OcJ" x="307" y="172"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="Cv}^!dHWr^A=!CqYopKW"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block></xml>
